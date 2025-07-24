@@ -1,6 +1,6 @@
 Tic Tac Toe Game
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
-It’s a beginner-friendly project developed as part of my learning journey through @Talha Tariq’s course at Apna College.
+It’s a beginner-friendly project developed as part of my learning journey 
 
  Features
 Two-player mode (O vs X)
@@ -19,5 +19,5 @@ HTML5
 
 CSS3
 
-JavaScript (Vanilla)
+JavaScript 
 
